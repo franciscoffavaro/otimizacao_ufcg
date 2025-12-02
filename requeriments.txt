@@ -1,0 +1,5 @@
+ortools
+scipy
+numpy
+pygad
+pyswarms
